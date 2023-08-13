@@ -2,7 +2,6 @@
 
 This project is centered on extensive interactions with REST APIs using Python. It spans a variety of operations including data retrieval, creation, updating, and deletion. By undertaking this project, I aim to display my hands-on expertise in handling and validating API endpoints.
 
-![API Interaction](path/to/optional_image/logo_or_related_image.png)
 
 ## Features
 
